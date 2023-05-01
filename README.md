@@ -8,3 +8,12 @@ Professor Frank Couvares contributed his time to assist the class in better unde
 We also want to thank Zoe Jacobs for her assistance with course planning and logistics and Tim Pinault for technical support with the scanning.
 Funding support for the course was provided by the Amherst College Provost's office in addition to support from the Feldman fund.
 
+# Projects
+
+See `Municipal_Reports` for information regarding annual city report.
+
+See `Parsons_Paper_Company_payroll_register` for a link to materials relating to the Parsons Paper Company payroll register.
+
+See `Reverse_Directory` for materials related to the reverse address directory from 1885 of Holyoke residents.
+
+See `Riverview_Renewal_Project` for materials related to a 1960's era "urban-renewal" plan.
