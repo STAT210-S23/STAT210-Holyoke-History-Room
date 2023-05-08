@@ -10,10 +10,18 @@ Funding support for the course was provided by the Amherst College Provost's off
 
 # Projects
 
-See `Municipal_Reports` for information regarding annual city report.
+See https://github.com/STAT210-S23/STAT210-Holyoke-History-Room/tree/main/Municipal_Reports for information regarding annual city report.
 
-See `Parsons_Paper_Company_payroll_register` for a link to materials relating to the Parsons Paper Company payroll register.
+See https://github.com/STAT210-S23/Parsons_Paper_Register for the scans of the Parsons Paper Company payroll register from 1861-1869.
+An interactive display can be found at https://r.amherst.edu/apps/nhorton/Parsons-Paper.
+See https://github.com/STAT210-S23/STAT210-Holyoke-History-Room/tree/main/Parsons_Paper_Company_payroll_register for a link to additional materials relating to the Parsons Paper Company payroll register (listing of who worked).
 
-See `Reverse_Directory` for materials related to the reverse address directory from 1885 of Holyoke residents.
+See https://github.com/STAT210-S23/STAT210-Holyoke-History-Room/tree/main/Reverse_Directory for materials related to the reverse address directory from 1885 of Holyoke residents.
 
-See `Riverview_Renewal_Project` for materials related to a 1960's era "urban-renewal" plan.
+See https://github.com/STAT210-S23/STAT210-Holyoke-History-Room/tree/main/Riverview_Renewal_Project for materials related to a 1960's era "urban-renewal" plan.
+
+# Other materials
+
+See https://github.com/STAT210-S23/STAT210-Wistariahurst for other materials made accessible for the Wistariahurst Museum.
+
+Last updated 2023-05-08 by [Nicholas Horton](https://github.com/nicholasjhorton).
