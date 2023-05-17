@@ -6,12 +6,13 @@ The properties in the area are grouped into blocks and parcels.
 Any given block has several properties (parcels) associated with it.
 The `riverview_organized` folder  contains image files that provide information about parcels in blocks 1-16 of the neighborhood.
 
-The naming of the images are done in the following structure:
+The naming of the images are done using the following protocol:
 
 Parcel information sheets - `block_x_parcel_y_info.png` 
-These sheets sheets include information about the property's location, owners, valuation, tax assessments, among others.
+These sheets include information about the property's location, owners, valuation, tax assessments, among others.
 The information provided varies across properties.
-A few parcels are associated with more than one information sheet - for these parcels there are numbers at the end of the filename denoting the order of the information sheets.
+Some parcels are associated with more than one information sheet.
+For these parcels there are numbers at the end of the filename denoting the order of the information sheets.
 
 
 Maps - `block_x_parcel_y_map_z.png`
