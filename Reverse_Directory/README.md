@@ -4,4 +4,4 @@ https://github.com/STAT210-S23/STAT210-Holyoke-History-Room/blob/main/Reverse_Di
 
 The scanned `PDF` was too big to upload on GitHub, but it can be found here at https://archive.org/details/holyokemassachus00pric, for both the scanned `PDF` and `txt` versions. 
 
-Here is a link to the report: XX
+Here is a link to the report describing the process: https://github.com/STAT210-S23/STAT210-Holyoke-History-Room/blob/main/Reverse_Directory/report.pdf
