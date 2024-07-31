@@ -1,0 +1,36 @@
+---
+title: "STAT210: Parsons Paper Company Register spreadsheet"
+author: "Nicholas Horton"
+date: "2024-07-31"
+date-format: iso
+format: 
+  pdf:
+    documentclass: article
+    geometry:
+      - top=30mm
+      - left=20mm
+      - heightrounded
+    toc: true
+    number-sections: TRUE
+editor: visual
+bibliography: sources.bib
+---
+
+```{r}
+#| label: setup
+#| include: false
+library(mosaic)
+library(tidyverse)
+```
+
+```{r}
+names <- readr::read_csv("Parsons_Names_2023_05_03.csv")
+glimpse(names)
+```
+
+```{r}
+last_full <- names |>
+  pull(last_full) 
+collapsed <- paste0(last_full, collapse = "; ")
+collapsed
+```
