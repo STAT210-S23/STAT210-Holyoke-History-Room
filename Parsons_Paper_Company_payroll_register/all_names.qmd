@@ -12,7 +12,7 @@ format:
       - heightrounded
     toc: true
     number-sections: TRUE
-editor: visual
+editor: source
 bibliography: sources.bib
 ---
 
@@ -32,5 +32,6 @@ glimpse(names)
 last_full <- names |>
   pull(last_full) 
 collapsed <- paste0(last_full, collapse = "; ")
-collapsed
+ds <- tibble(full_names = collapsed)
+write.csv(ds, "all_names.csv")
 ```
