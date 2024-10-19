@@ -1,6 +1,10 @@
 The Riverview Renewal Area was a part of Holyoke that underwent demolition and reconstruction as part of a 1960s urban renewal project. The area was bounded by Lyman Street to the West, Pulaski Park to the East, Front Street to the South, and Pine Street to the North.
 
+A Shiny app is available at https://rsconnect3.amherst.edu/content/73f0655d-811f-4d12-a5a4-a1271718cbbe
+
 A spreadsheet has been created with information about the properties, address, owner, and assessed values (see https://github.com/STAT210-S23/STAT210-Holyoke-History-Room/blob/main/Riverview_Renewal_Project/riverview_renewal_data_2023_05_08.xlsx).
+
+A Shiny app that lets users explore the data is available at https://rsconnect3.amherst.edu/content/73f0655d-811f-4d12-a5a4-a1271718cbbe
 
 The properties in the area are grouped into blocks and parcels.
 Any given block has several properties (parcels) associated with it.
